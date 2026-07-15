@@ -13,11 +13,14 @@ let info = 'Mon majar';
 
 // 2. Can not use a keyword(reserved word) as a variable name
 
-const false = false;
-const let = 26;
-console.log(let);
+// const false = false;
+// const let = 26;
+// console.log(let);
 
 // 3. Has to be in one word. Can not contain blank-space or gap.
-const her phone number = 01237891390;
-const her phone number = 01237891390;
-const her phone number = 01237891390;
+// const her phone number = 01237891390;
+
+// Can use underscore(_) or Capitailazation to separate words.
+const her_phone_number = 1237891390;
+const herPhoneNumber = 1237891390; // no value can start with 0.
+console.log(herPhoneNumber);
