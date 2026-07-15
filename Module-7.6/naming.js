@@ -1,4 +1,4 @@
-// Every variable name shoud be meaningful. It will indicate what it contains.
+// 1. Every variable name shoud be meaningful. It will indicate what it contains.
 let location = 'Bandarban';
 let age = 18;
 let boyos = 19;
@@ -10,5 +10,14 @@ let info = 'Mon majar';
 
 // Do not use any shorthand name for variables.
 // Its okay if the name is longer.
+
+// 2. Can not use a keyword(reserved word) as a variable name
+
+const false = false;
 const let = 26;
 console.log(let);
+
+// 3. Has to be in one word. Can not contain blank-space or gap.
+const her phone number = 01237891390;
+const her phone number = 01237891390;
+const her phone number = 01237891390;
