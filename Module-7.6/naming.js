@@ -21,6 +21,9 @@ let info = 'Mon majar';
 // const her phone number = 01237891390;
 
 // Can use underscore(_) or Capitailazation to separate words.
-const her_phone_number = 1237891390;
-const herPhoneNumber = 1237891390; // no value can start with 0.
+const her_phone_number = 1237891390;//snake case.
+const herPhoneNumber = 1237891390; //camel case.(we will use mostly)
+const HerPhoneNumber = 1234355789; //pascal case.
 console.log(herPhoneNumber);
+
+// 4. Variable names can't start with a number. But number could be used anywhere other than the first letter.
