@@ -27,3 +27,6 @@ const HerPhoneNumber = 1234355789; //pascal case.
 console.log(herPhoneNumber);
 
 // 4. Variable names can't start with a number. But number could be used anywhere other than the first letter.
+const 3person = 3;
+const person3 = 6;
+const p3rson = 7;
